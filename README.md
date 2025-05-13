@@ -36,7 +36,7 @@ Here’s an overview of the files and their purposes:
 - **`Backtesting_GOLD-2003-2025.ipynb`**: Loads the pre-trained gold model and predicts real-time hourly prices.
 - **`Backtsting_SILVER-2003-2025.ipynb`**: Loads the pre-trained silver  model and predicts  prices in back dates.
 - **`Backtsting_SILVER-2015-2025.ipynb`**: Loads the pre-trained silver  model and predicts  prices in back dates.
-- - **`Backtesting_CRUDE_OIL-2015-2025.ipynb`**: Loads the pre-trained Crude Oil  model and predicts  prices in back dates.
+- **`Backtesting_CRUDE_OIL-2015-2025.ipynb`**: Loads the pre-trained Crude Oil  model and predicts  prices in back dates.
 - **`Backtesting_CRUDE_OIL-2003-2025.ipynb`**: Loads the pre-trained Crude Oil model and predicts  prices in back dates.
 
 - ## **DATA Directory**
