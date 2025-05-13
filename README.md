@@ -28,7 +28,7 @@ Here’s an overview of the files and their purposes:
 - **`Realtime-prediction_GOLD_Hourly.ipynb`**: Loads the pre-trained gold model and predicts real-time hourly prices.
 - **`Realtime-prediction_SILVER.ipynb`**: Loads the pre-trained silver model and predicts real-time daily prices.
 - **`Realtime-prediction_SILVER_Hourly.ipynb`**: Loads the pre-trained silver model and predicts real-time hourly prices.
-- - **`Realtime-prediction_CRUDE_OIL.ipynb`**: Loads the pre-trained Crude Oil model and predicts real-time daily prices.
+- **`Realtime-prediction_CRUDE_OIL.ipynb`**: Loads the pre-trained Crude Oil model and predicts real-time daily prices.
 - **`Realtime-prediction_CRUDE_OIL_Hourly.ipynb`**: Loads the pre-trained Crude Oil model and predicts real-time hourly prices.
 
 ### **Back testing Notebooks in Backtesting folder**
