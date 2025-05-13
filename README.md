@@ -1,5 +1,5 @@
 
-# **Real-Time Price Prediction for Precious Metals and Crude Oil HYBRID Model - 98-99% Accuracy**
+# **Real-Time Price Prediction for Precious Metals and Crude Oil HYBRID Model - 99% Accuracy**
 
 ## **Overview**
 This repository contains a system for predicting the prices of precious metals (gold and silver) and crude oil using hybrid machine learning models. The project consists of two components:
